@@ -1,0 +1,15 @@
+{
+    "claims_workflows": [
+        "Claims submission",
+        "Eligibility verification",
+        "Provider validation",
+        "Benefit calculation",
+        "Fraud checks"
+    ],
+    "pbm_modules": [
+        "Formulary validation",
+        "Prescription processing",
+        "Copay calculation",
+        "RxClaim workflows"
+    ]
+}
