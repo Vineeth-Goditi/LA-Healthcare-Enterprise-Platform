@@ -82,12 +82,6 @@ This project simulates workflows commonly found in:
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is for educational and demonstration purposes only and does not represent any proprietary healthcare implementation.
-
----
-
 ## 👨‍💻 Author
 
 Vineeth Goditi
